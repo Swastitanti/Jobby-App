@@ -1,4 +1,9 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+# 📌 Jobby App  
+
+**Jobby App** is a React-based job search web application where users can explore job listings, filter opportunities, and view detailed job descriptions.  
+Your gateway to dream jobs with React 🚀  
+
+---
 
 ### Refer to videos below:
 
