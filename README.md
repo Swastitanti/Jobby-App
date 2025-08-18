@@ -1,7 +1,6 @@
 # 📌 Jobby App  
 
-**Jobby App** is a React-based job search web application where users can explore job listings, filter opportunities, and view detailed job descriptions.  
-Your gateway to dream jobs with React 🚀  
+**Jobby App** is a React-based job search web application where users can explore job listings, filter opportunities, and view detailed job descriptions. It provides a clean and responsive UI to make the job search experience smooth and interactive. 
 
 ---
 
